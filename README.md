@@ -13,7 +13,7 @@ IMDB is an online database of information related to films, television programs,
 This project is an Exploratory Data Analysis (EDA) of each streaming service,  differences, similarities, and ratings distribution of content between the platforms.
 
 ______________________________________________________________________________________
-                                        DATA SOURCES
+                                                            DATA SOURCES
 Kaggle:
 
 Netflix - https://www.kaggle.com/sahib12/netflix-consumption-analysis
