@@ -1,5 +1,7 @@
 # Netflix_and_Chill
 
+![cover picture](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/disney_netflix_cover.jpeg)
+
 
 Netflix is an application that keeps growing up the graph with its popularity, shows and content. This is an Exploratory Data Analysis or a story telling through its data along with a content-based recommendation system.
 
