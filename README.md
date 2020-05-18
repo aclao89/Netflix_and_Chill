@@ -26,7 +26,7 @@ ________________________________________________________________________________
                                                             DATA ANALYSIS
 Distribution of Content Type on Netflix
 
-![nf_content_type](https://www.kaggle.com/PromptCloudHQ/imdb-data)
+![nf_content_type](https://github.com/aclao89/Netflix_and_Chill/raw/master/Images/netfli_show_types.png)
 
 
 Distribution of Content Type on Disney +
