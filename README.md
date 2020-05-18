@@ -37,16 +37,13 @@ Comparing Show Types between Netflix and Disney+
 
 Movies takes up more than 50% of the content for both services. Interestingly, Disney + has stand-alone episodes, commonly produced by Disney, a service not performed by Netflix.
 
-
-
-Content Added on Netflix Over Time
+===============================================================================
 
 ![content_over_time](https://github.com/aclao89/Netflix_and_Chill/raw/master/Images/content_nf_over_time.png)
 
 Netflix is continuously adding content every year. Movies have a larger presence than TV shows. In 2019, at least half of the listings were TV shows. The rise and popularity of TV shows can be attributed to the potential for extended narratives which a 2-2.5 hour movie may not fulfill. This is an interesting area that requires more data to gain insight. Additionally, the low amount of content from 2008 to 2014 needs to be further investigated. https://www.investopedia.com/articles/markets/051215/who-are-netflixs-main-competitors-nflx.asp
 
 
-Content Added on Disney+
 
 ![disney_over_time](https://github.com/aclao89/Netflix_and_Chill/raw/master/Images/content_ds%2B_over_time.png)
 
@@ -59,10 +56,9 @@ Disney + officially launched in the United States on November 12, 2019. This exp
 
 It's hard to compare since Disney+ is a newer platform. I created a simple bar chart to show the amount of content added onto Netflix from November 2019 to January 2020. Disney+ released 75% more content than Netflix in November 2019. However, Netflix significantly released more content in January and December.
 
-
-
+================================================================================
 Monthly Uploads on Netflix
 
 ![netflix_monthly_uploads](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/content_by_month.png)
 
-Overall,content is generally released during Fall especially during holidays. Since a majority of people will be with their families or on holiday vacation, it is the optimal time to release content for viewership.
+Netflix tends to release content during the fall months especially during onset of holiday season from Thanksgiving to Christmas. Since a majority of people will be with their families or on holiday vacation, it is the optimal time to release content for viewership.
