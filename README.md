@@ -23,13 +23,15 @@ Disney + - https://www.kaggle.com/unanimad/disney-plus-shows
 IMDB - https://www.kaggle.com/PromptCloudHQ/imdb-data
 
 ______________________________________________________________________________________
+
                                                             DATA ANALYSIS
-Distribution of Content Type on Netflix
+
+Comparing Show Types between Netflix and Disney+
 
 ![nf_content_type](https://github.com/aclao89/Netflix_and_Chill/raw/master/Images/netfli_show_types.png)
 
 
-Distribution of Content Type on Disney +
+
 ![disney_content_type](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/disney_show_type.png)
 
 
