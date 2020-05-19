@@ -57,8 +57,26 @@ Disney + officially launched in the United States on November 12, 2019. This exp
 It's hard to compare since Disney+ is a newer platform. I created a simple bar chart to show the amount of content added onto Netflix from November 2019 to January 2020. Disney+ released 75% more content than Netflix in November 2019. However, Netflix significantly released more content in January and December.
 
 ================================================================================
-Monthly Uploads on Netflix
+
 
 ![netflix_monthly_uploads](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/content_by_month.png)
 
 Netflix tends to release content during the fall months especially during onset of holiday season from Thanksgiving to Christmas. Since a majority of people will be with their families or on holiday vacation, it is the optimal time to release content for viewership.
+
+================================================================================
+
+![nf_content_added_over_time_monthly](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/nf_update_month_year.png)
+
+If I wanted to release content onto Netflix to maximize viewership, I would focus on any of the months with purple and magenta. The orange and yellow indicate high volume of content so viewership may go down for certain releases.
+
+
+===============================================================================
+
+![netflix_ratings](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/film_ratings_netflix.png)
+
+Most of the content is rated TV-MA, TV-14 and TV-PG. We can deduce that Netflix's customer base are older adults. Programming rated TV-MA in the United States by the TV Parental Guidelines signifies content for mature audiences only. Programs with this rating are usually not suitable for anyone under 17 years of age (under 18 or 21 in some networks/services). Content may contain strong coarse language, explicit (in some cases, pornographic) strong sexual content, nudity, or intense/graphic violence.
+
+
+![disney_ratings](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/film_ratings_disney.png)
+
+Disney+ is the exclusive home for your favorite movies and TV shows from Disney, Pixar, Marvel, Star Wars, and National Geographic. All these studio productions are catered to children and young teens
