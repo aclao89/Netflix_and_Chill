@@ -98,3 +98,17 @@ Seven out of the top ten genres are family-oriented. This is no surprise since m
 ![top_20_countries_nf](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/top_20_country_productions.png)
 
 Netflix is an American media-services provider and production company headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. It's not surprising that 45% of content was produced in the United States. India has the second biggest share at 17.3%.
+
+==============================================================================
+
+![netflix_wc](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/netflix_wc_.png)
+
+Here is a WordCloud of the 100 most popular words in content titles. 'Man' appeared the most with 185 mentions followed by 'love' with 135.
+
+![disney_wc](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/disney_wc.png)
+
+"Star Wars" has the most mentions at 22 followed by "Movie" at 18. Star Wars is a popular show amongst kids and young teens. Movie is often included in the descriptions of family movies.
+
+==============================================================================
+                                                            IMDB Rating Analysis
+                                                            
