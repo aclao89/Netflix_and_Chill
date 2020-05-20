@@ -109,9 +109,18 @@ Here is a WordCloud of the 100 most popular words in content titles. 'Man' appea
 
 "Star Wars" has the most mentions at 22 followed by "Movie" at 18. Star Wars is a popular show amongst kids and young teens. Movie is often included in the descriptions of family movies.
 
-===============================================================================
-                                                            IMDb DATA ANALYSIS   
+________________________________________________________________________________
+
+                                                           IMDb DATA ANALYSIS   
 
 What if I wanted to see the top ten rated content per IMDb rating?
 
 IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.
+
+![nf_top_10imdb](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/nf_sunburst.png)
+
+
+
+
+
+![disney_top_10imdb](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/ds%2B_sunburst.png)
