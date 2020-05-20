@@ -79,4 +79,22 @@ Most of the content is rated TV-MA, TV-14 and TV-PG. We can deduce that Netflix'
 
 ![disney_ratings](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/film_ratings_disney.png)
 
-Disney+ is the exclusive home for your favorite movies and TV shows from Disney, Pixar, Marvel, Star Wars, and National Geographic. All these studio productions are catered to children and young teens
+Disney+ focuses on family-oriented entertainment and features no R and NC-17 rated films and TV-MA shows.
+
+===============================================================================
+
+![netflix_treemap](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/netflix_treemap.png)
+
+Comedies and documentaries are most popular genres out of the top ten tree map.
+
+
+
+![disney_treemap](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/disney_treemap.png)
+
+Seven out of the top ten genres are family-oriented. This is no surprise since majority of movies and TV shows are from Disney, Pixar, Marvel, Star Wars, and National Geographic. All these studio productions are catered to children and young teens.
+
+===============================================================================
+
+![top_20_countries_nf](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/top_20_country_productions.png)
+
+Netflix is an American media-services provider and production company headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. It's not surprising that 45% of content was produced in the United States. India has the second biggest share at 17.3%.
