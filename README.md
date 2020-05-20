@@ -20,7 +20,7 @@ Netflix - https://www.kaggle.com/sahib12/netflix-consumption-analysis
 
 Disney + - https://www.kaggle.com/unanimad/disney-plus-shows
 
-IMDB - https://www.kaggle.com/PromptCloudHQ/imdb-data
+IMDb - https://www.kaggle.com/PromptCloudHQ/imdb-data
 
 ______________________________________________________________________________________
 
@@ -99,7 +99,7 @@ Seven out of the top ten genres are family-oriented. This is no surprise since m
 
 Netflix is an American media-services provider and production company headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. It's not surprising that 45% of content was produced in the United States. India has the second biggest share at 17.3%.
 
-==============================================================================
+===============================================================================
 
 ![netflix_wc](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/netflix_wc_.png)
 
@@ -109,6 +109,9 @@ Here is a WordCloud of the 100 most popular words in content titles. 'Man' appea
 
 "Star Wars" has the most mentions at 22 followed by "Movie" at 18. Star Wars is a popular show amongst kids and young teens. Movie is often included in the descriptions of family movies.
 
-==============================================================================
-                                                            IMDB Rating Analysis
-                                                            
+===============================================================================
+                                                            IMDb DATA ANALYSIS   
+
+What if I wanted to see the top ten rated content per IMDb rating?
+
+IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.
