@@ -28,12 +28,7 @@ ________________________________________________________________________________
 
 Comparing Show Types between Netflix and Disney+
 
-![nf_content_type](https://github.com/aclao89/Netflix_and_Chill/raw/master/Images/netfli_show_types.png)
-
-
-
-![disney_content_type](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/disney_show_type.png)
-
+![nf_vs_ds_content](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/nf_vs_nf_content.png)
 
 Movies takes up more than 50% of the content for both services. Interestingly, Disney + has stand-alone episodes, commonly produced by Disney, a service not performed by Netflix.
 
