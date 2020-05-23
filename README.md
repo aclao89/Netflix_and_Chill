@@ -67,12 +67,14 @@ If I wanted to release content onto Netflix to maximize viewership, I would focu
 
 ===============================================================================
 
-![netflix_ratings](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/film_ratings_netflix.png)
+
+![film_ratings_comparison](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/film_ratings_comparison.png)
+
 
 Most of the content is rated TV-MA, TV-14 and TV-PG. We can deduce that Netflix's customer base are older adults. Programming rated TV-MA in the United States by the TV Parental Guidelines signifies content for mature audiences only. Programs with this rating are usually not suitable for anyone under 17 years of age (under 18 or 21 in some networks/services). Content may contain strong coarse language, explicit (in some cases, pornographic) strong sexual content, nudity, or intense/graphic violence.
 
 
-![disney_ratings](https://github.com/aclao89/Netflix_and_Chill/blob/master/Images/film_ratings_disney.png)
+
 
 Disney+ focuses on family-oriented entertainment and features no R and NC-17 rated films and TV-MA shows.
 
